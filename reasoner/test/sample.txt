@@ -1,0 +1,10 @@
+Anthony_Annan	memberOf	CA_Osasuna
+Marcel_Guénin	hasOccupation	Mathematician
+Andrzej_Tęczyński	image	Prussian%20Homage.jpg
+JCPM_Yakiimo_Station	containedInPlace	Shimizu,_Shizuoka
+Gone_Girl_(film)	actor	Ben_Affleck
+geo:31.156441807450623,76.18001960804217	latitude	XMLSchema#double
+geo:51.38250000000041,-0.18361111111111258	latitude	XMLSchema#double
+Muriel_Gibson_(politician)	alumniOf	High_School_of_Glasgow
+Allande	containsPlace	Linares_(Allande)
+Vera_Anisimova	nationality	Russia

@@ -1,0 +1,4 @@
+- connect all to one script
+- create algorithm as specified in algorithm.txt
+- reasoner runs forever
+- can't preprocess facts and types - too big locally, try tub server

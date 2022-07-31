@@ -1,0 +1,12 @@
+1. Take some basic dataset (yago graph, …, should work on anything) 
+    a. Clean he dataset 
+    b. Map entities and relations to IDs
+2. Run reasoner on data form 1
+3. Train the model on this dataset (initial dataset + triples from the reasoner )
+5. Generate facts (predications) 
+6. Give (predications) to the model
+7. Output (true or false) with PROBABILITY (save this output)
+8. Facts with probability above 80% is input to reasoner + the whole initial graph (from step 1)
+9. Reasoner uses the RDFS rules to output all NEW triples  - save all new outputted triples 
+10. Back to number 2 (retrain with new triples) 
+11. Stop when nothing new is generated ( no new relations in number 8)

@@ -1,0 +1,8 @@
+steakhouse	subclass	restaurant
+restaurant	subclass	foodEstablishment
+old_homestead_steakhouse	containedInPlace	chelsea_manhattan
+old_homestead_steakhouse	type	steakhouse
+containedInPlace	domain	place
+containedInPlace	range	place
+affiliation	subproperty	memberOf
+valentyn_symonenko	affiliation	kyiv_national_university_of_trade_and_economics
